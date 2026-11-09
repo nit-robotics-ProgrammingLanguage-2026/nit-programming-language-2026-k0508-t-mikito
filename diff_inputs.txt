@@ -1,2 +1,6 @@
-# main.c と ai.c の出力が食い違う入力を1行に1つ書く。
-# 食い違いがなければ「なし」とだけ書く。
+printf("Error\n")
+printf("No\n")
+mached = 1
+if (matched == 0)
+printf("\n")
+return 1
